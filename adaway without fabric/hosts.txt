@@ -3788,7 +3788,6 @@
 127.0.0.1 cookies.onetrust.mgr.consensu.org
 127.0.0.1 optad360.mgr.consensu.org
 127.0.0.1 stat.optad360.mgr.consensu.org
-127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 apis.quantcast.mgr.consensu.org
 127.0.0.1 audit-tcfv2.quantcast.mgr.consensu.org
 127.0.0.1 static.quantcast.mgr.consensu.org
